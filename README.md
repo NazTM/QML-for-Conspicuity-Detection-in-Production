@@ -33,13 +33,13 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-8AVgMFsXZOHDJnx):
+ - Full Name: Naziba Tasnim
+ - Womanium Program Enrollment ID - WQ24-8AVgMFsXZOHDJnx
 
 
 Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-iiwPBnSVaawqgU8):
+ - Full Name: Pratik Kumar De
+ - Womanium Program Enrollment ID - WQ24-iiwPBnSVaawqgU8
 
 
 ### Project Solution:
